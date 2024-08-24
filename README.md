@@ -39,4 +39,4 @@ If you have any questions or need support, feel free to reach out:<br>
 
 Email: [sreyasudheeran@gmail.com]<br>
 LinkedIn: [https://www.linkedin.com/in/sreyasudheeran/]<br>
-Thank you for being part of our StoryVerse community!<br>
+Thank you for being part !<br>
