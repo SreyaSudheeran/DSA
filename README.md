@@ -1,3 +1,3 @@
 # DSA
-Contains DSA questions
-Author : Sreya Sudheeran
+Contains DSA questions\n
+Author : Sreya Sudheeran\n
