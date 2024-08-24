@@ -21,3 +21,22 @@ git clone https://github.com/SreyaSudheeran/DSA
 ```bash
 cd DSA
 ```
+
+# Contributing
+We encourage community involvement! Here's how you can contribute:<br>
+- Report Bugs: If you encounter any issues, please let us know by [contact method].<br>
+- Create individual PR for each suggestion.<br>
+
+# Creating A Pull Request<br>
+1. Fork the Project<br>
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature<br>
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')<br>
+4. Push to the Branch (git push origin feature/AmazingFeature)<br>
+5. Open a Pull Request<br>
+
+# Contact Us
+If you have any questions or need support, feel free to reach out:<br>
+
+Email: [sreyasudheeran@gmail.com]<br>
+LinkedIn: [https://www.linkedin.com/in/sreyasudheeran/]<br>
+Thank you for being part of our StoryVerse community!<br>
